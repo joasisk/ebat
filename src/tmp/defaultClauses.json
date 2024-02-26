@@ -1,0 +1,33 @@
+{
+  "approvalClauses": [
+    {
+      "text": "S&S for less than 12 months",
+      "value": "If the bid contains S&S for less than 12 months for the new content or the renewals of existing, Accounting review is recommended"
+    },
+    {
+      "text": "potential concessions in ELA",
+      "value": "Dealmaker is responsible for any potential concessions in ELA or other related contracts. Please clarify potential concessions with Accounting."
+    },
+    { "text": "No BP involved", "value": "No BP involved" },
+    {
+      "text": "Use latest Audit clause",
+      "value": "Use latest Audit clause as per current annotations unless an exceptional approval has been obtained for any deviation from this"
+    },
+    {
+      "text": "SWG Services deployed",
+      "value": "SWG Services deployed in an ELA require a separate and specific approval which is not delegated to SW Pricing and which needs to be obtained by the deal maker. This does not apply where a preapproved R&D Services process is in place."
+    },
+    {
+      "text": "Services must not include milestones",
+      "value": "Services must not include milestones, contingencies, performance guarantees, or any other dependency between the software license bid and the services content which may cause  revenue recognition issues. Contact SW Pricing for more information."
+    },
+    {
+      "text": "Deferred Payment plans",
+      "value": "Any request for Deferred Payment plans or billing exceptions should be explicit in a special bid (same thing for Rate Buy Down when Financing applies)."
+    },
+    {
+      "text": "standard IBM payment terms",
+      "value": "This bid is approved under standard IBM payment terms or those made mandatory as governed by local law. Any payment terms exception should be approved by the IMT CFO according to the valid Instructions from EMEA Director of Balance Sheet & A/R (CoE Pricing doesn't hold this delegation)'. The same disclaimer also applies to billing terms exception which require IMT CFO's approval. "
+    }
+  ]
+}
